@@ -3,7 +3,4 @@ TrafficMonitor
 
 implementation of Traffic Surveillence  system
 
-in '/artice' there is some papers for leading project but at this phase  we are
-not using them(maybe never :D )
-
-
+in '/artice' there is some papers about this kind of systems but currenetly i have no idea about them.
